@@ -1,5 +1,6 @@
 # chs7002
 SKKU, 2021
+### Basic of Machine Learning & Deep Learning
 ### [Machine Learning]
 
 #### 1. Simple Linear Regression Analysis
