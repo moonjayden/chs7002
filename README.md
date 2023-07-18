@@ -1,6 +1,6 @@
 # chs7002
 SKKU, 2021
-### Machine Learning
+### [Machine Learning]
 
 #### 1. Simple Linear Regression Analysis
 
@@ -22,7 +22,7 @@ Decision Tree / Ensembles / Random Forest / K-NN / SVM(Support Vector Machine)
 
 K-means Clustering / Hierachical Clustering 
 
-### Deep Learning
+### [Deep Learning]
 
 #### 1. Convolutional Neural Network
 
