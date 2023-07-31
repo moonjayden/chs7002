@@ -3,9 +3,9 @@
 ### Basic of Machine Learning & Deep Learning
 ### [Machine Learning]
 
-#### 1. Simple Linear Regression Analysis
+#### 1. Linear Regression Analysis
 
-Linear Regression / Multivariable Linear Regression /Normalization / Variable Selection
+Simple Linear Regression / Multivariable Linear Regression /Normalization / Variable Selection
 
 #### 2. Linear Classification Model
 
